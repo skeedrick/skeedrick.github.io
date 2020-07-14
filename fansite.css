@@ -1,4 +1,17 @@
-#welcome{
-  font-size: 48px;
-  color: rgb(88, 196, 234);
+* {
+  background-color: coral;
+  color: blue;
+  
+  }
+  
+  .new {
+    color: blue;
+  }
+
+#welcome {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: x-large;
+  text-align: center;
+  text-decoration: darkblue;
+  color: blue;
 }
